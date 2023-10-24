@@ -1,4 +1,4 @@
-i#ifndef SORT_H
+#ifndef SORT_H
 #define SORT_H
 
 #include <stdio.h>
